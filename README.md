@@ -1,10 +1,12 @@
-@@ -1,9 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Malek Wessam</h1>
 <h3 align="center">Backend Developer</h3>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="(https://www.facebook.com/photo/?fbid=2141795272696678&set=a.104561739753385)" alt="malekwessam" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekwessam&label=Profile%20views&color=0e75b6&style=flat" alt="malekwessam" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malekwessam" alt="malekwessam" /></a> </p>
 
 
 
