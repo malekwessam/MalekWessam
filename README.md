@@ -4,12 +4,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekwessam&label=Profile%20views&color=0e75b6&style=flat" alt="malekwessam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malekwessam" alt="malekwessam" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **.Net Core Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/malekwessam?tab=repositories](https://github.com/malekwessam?tab=repositories)
